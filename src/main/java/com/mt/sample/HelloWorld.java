@@ -6,10 +6,10 @@ package com.mt.sample;
  */
 import java.util.Date;
 
-public class HelloIndia {
+public class HelloWorld {
 
 	public static void main(String[] args) {
-		System.out.println("Hello Welcome to Maven Build Tool !! Today Date is:  " + getLocalCurrentDate());
+		System.out.println("Hello Welcome to Maven Build Tool !! Today Date is: 23rd July 2025  " + getLocalCurrentDate());
 
 	}
 
